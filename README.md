@@ -1,13 +1,13 @@
-# <p align="center" style="color:#cb3349" > [<< TH3BOSS >> V20 (Final Version)](https://telegram.me/llDEV1ll)
+# <p align="center" style="color:#cb3349" @devilrap12
 
- <p align="center" style="color: #14635c;" > بوت الزعيم الاقوى والاحدث لحمايه المجموعات في التلكرام
-<p align="center"><img src="زعيم.jpg" alt="بوت زعيم" title="بوت زعيم">
+ <p align="center" style="color: #14635c;" > بوت الشيطان راب الاقوى والاحدث لحمايه المجموعات في التلكرام
+<p align="center"><img src="الشيطان راب.jpg" alt="بوت الشيطان راب" title="بوت الشيطان راب">
 
 ***
 
 # <p align="center" style="color: #14635c;" > التنصيب بكود واحد
 ```sh
-git clone https://github.com/moody2020/TH3BOSS.git && cd TH3BOSS && chmod +x TH3BOSS.sh && ./TH3BOSS.sh install && ./TH3BOSS.sh
+git clone https://https://github.com/devilrap978/-devilrap.git && cd devilrap && chmod +x devilrap.sh && ./devilrap.sh install && ./devilrap.sh
 ```
 
 
@@ -21,37 +21,32 @@ redis-server
 ```
 🗯┇  اتركه مفتوح وافتح ترمنال ثاني وخلي
 ```sh
-git clone https://github.com/moody2020/TH3BOSS.git
+git clone https://github.com/devilrap978/-devilrap.git
 ```
 🗯┇  وراها هاي
 ```sh
-cd TH3BOSS
+cd devilrap
 ```
 🗯┇  وراها هاي 
 ```sh
-chmod +x TH3BOSS.sh
+chmod +x devilrap.sh
 ```
 🗯┇  وراها هاي ونتظر يكمل التنصيب 
 ```sh
-./TH3BOSS.sh install
+./devilrap.sh install
 ```
 🗯┇  واخر شي هااي 
 ```sh
-./TH3BOSS.sh
+./devilrap.sh
 ```
 🗯┇للاستفسار راسلني 
 ```sh
-@TH3BOSS
+@devilrap
 ```
 🗯┇للاستفسار راسلني 
 ```sh
-@lBOSSl
+@devilrap97
 ```
 ##  [🗯┇انتظر قليلا ثم يطلب منك ايدي وتوكن خلي ايديك والتوكن مبروك عليك افضل بوت بالتلكرام](https://telegram.me/llDEV1ll)
 # <p align="center"> 🗯┇  للاستفسار راسلني 
-
-  [Mohammed Hisham](https://telegram.me/TH3BOSS) <br>
-  
-  [TH3BOSS](https://telegram.me/LBOSSL) <br>
-  
-  [CH - TH3BOSS](https://telegram.me/LLDEV1LL) 
+@devilrap
