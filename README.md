@@ -13,7 +13,7 @@ git clone https://https://github.com/devilrap978/-devilrap.git && cd devilrap &&
 
 <br>
 
-# <p align="center" style="color: #14635c;" >  تنصيب سورس الزعيم الاصدار 20 والاخير
+# <p align="center" style="color: #14635c;" >  تنصيب سورس الشيطان راب الاصدار 20 
 
 🗯┇  افتـح ترمنـــأل وخلي هاي
 ```sh
