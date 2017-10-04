@@ -25,7 +25,7 @@ git clone https://github.com/devilrap978/-devilrap.git
 ```
 🗯┇  وراها هاي
 ```sh
-cd devilrap
+cd -devilrap
 ```
 🗯┇  وراها هاي 
 ```sh
